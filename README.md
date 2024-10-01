@@ -6,7 +6,7 @@ Encryption and Decryption Program
 - Playfair Cipher
 - Hill Cipher
 
-Langkah-langkah untuk Menjalankan Prgram:
+Langkah-langkah untuk Menjalankan Program:
 --
 1. Download file CipherProgram.java pada repository
 2. Buka file menggunakan IDE (bisa menggunakan Visual Studio Code atau yang lain)
